@@ -1278,10 +1278,9 @@ body {
   width: 50px;
   color: #6d9abc;
   list-style: none;
-  z-index: 10;
   position: absolute;
-  right: 4px;
-  bottom: 54px;
+  right: 21px;
+  bottom: 105px;
   padding: 0;
   margin: 0;
   z-index: 0;
@@ -1294,8 +1293,8 @@ body {
   border-radius: 20px 0 0 0;
   background: #fff;
   border-left: 3px solid #6D9ABC;
-  padding-bottom: 50px;
-  padding-right: 4px;
+  padding-bottom: 108px;
+  padding-right: 21px;
   transition: right 0.5s linear;
   z-index: 1;
 }
@@ -1313,8 +1312,8 @@ body {
 .btn-hide {
   list-style: none;
   position: absolute;
-  right: 12px;
-  bottom: 14px;
+  right: 32px;
+  bottom: 70px;
   padding: 0;
   margin: 0;
   z-index: 1;
@@ -1359,11 +1358,11 @@ body {
 .font-2-2 {
   font-family: "Edwardian Script ITC V1";
   color: #E2B04D;
-  font-size: 2rem;
+  font-size: 1.8rem;
   line-height: 30px;
   position: absolute;
-  left: 10px;
-  bottom: 220px;
+  left: 31px;
+  bottom: 210px;
   animation-name: uppp;
   animation-duration: 8s;
 }
@@ -1371,11 +1370,11 @@ body {
 .font-2-2-1 {
   font-family: "Edwardian Script ITC V1";
   color: #fff;
-  font-size: 2rem;
+  font-size: 1.8rem;
   line-height: 30px;
   position: absolute;
-  left: 10px;
-  bottom: 220px;
+  left: 31px;
+  bottom: 210px;
   font-weight: bolder;
   -webkit-text-stroke: 5px #fff;
   animation-name: uppp;
@@ -1385,11 +1384,11 @@ body {
 .font-2-3 {
   font-family: "Edwardian Script ITC V1";
   color: #E2B04D;
-  font-size: 2rem;
+  font-size: 1.8rem;
   line-height: 30px;
   position: absolute;
-  right: 58px;
-  bottom: 180px;
+  right: 70px;
+  bottom: 210px;
   animation-name: uppp;
   animation-duration: 8s;
 }
@@ -1397,11 +1396,11 @@ body {
 .font-2-3-1 {
   font-family: "Edwardian Script ITC V1";
   color: #fff;
-  font-size: 2rem;
+  font-size: 1.8rem;
   line-height: 30px;
   position: absolute;
-  right: 58px;
-  bottom: 180px;
+  right: 70px;
+  bottom: 210px;
   font-weight: bolder;
   -webkit-text-stroke: 5px #fff;
   animation-name: uppp;
@@ -1411,11 +1410,11 @@ body {
 .font-2-4 {
   font-family: "NK_Monotype Corsiva";
   color: #365F8C;
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   line-height: 15px;
   position: absolute;
-  left: 23px;
-  bottom: 173px;
+  left: 38px;
+  bottom: 160px;
   animation-name: uppp;
   animation-duration: 9s;
 }
@@ -1423,11 +1422,11 @@ body {
 .font-2-4-1 {
   font-family: "NK_Monotype Corsiva";
   color: #fff;
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   line-height: 15px;
   position: absolute;
-  left: 23px;
-  bottom: 173px;
+  left: 38px;
+  bottom: 160px;
   font-weight: bolder;
   -webkit-text-stroke: 5px #fff;
   animation-name: uppp;
@@ -1437,11 +1436,11 @@ body {
 .font-2-5 {
   font-family: "NK_Monotype Corsiva";
   color: #365F8C;
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   line-height: 15px;
   position: absolute;
-  right: 26px;
-  bottom: 135px;
+  right: 38px;
+  bottom: 160px;
   animation-name: uppp;
   animation-duration: 9s;
 }
@@ -1449,11 +1448,11 @@ body {
 .font-2-5-1 {
   font-family: "NK_Monotype Corsiva";
   color: #365F8C;
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   line-height: 15px;
   position: absolute;
-  right: 26px;
-  bottom: 135px;
+  right: 38px;
+  bottom: 160px;
   font-weight: bolder;
   -webkit-text-stroke: 5px #fff;
   animation-name: uppp;
@@ -2307,4 +2306,8 @@ body {
   background-image: url('../../src/images/bg-2.jpg');
   background-size: cover;
   border: 1px solid #a8c4db;
+}
+
+.fa-2x{
+  font-size: 1.8rem;
 }

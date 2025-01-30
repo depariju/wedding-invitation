@@ -1181,6 +1181,8 @@ p {
 
 body {
   background-color: #e8f2fb;
+  height:100%;
+  overflow: hidden;
 }
 
 .canvas {

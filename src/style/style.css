@@ -1280,8 +1280,8 @@ body {
   list-style: none;
   z-index: 10;
   position: absolute;
-  right: 0px;
-  bottom: 51px;
+  right: 4px;
+  bottom: 54px;
   padding: 0;
   margin: 0;
   z-index: 0;
@@ -1295,6 +1295,7 @@ body {
   background: #fff;
   border-left: 3px solid #6D9ABC;
   padding-bottom: 50px;
+  padding-right: 4px;
   transition: right 0.5s linear;
   z-index: 1;
 }
@@ -1312,8 +1313,8 @@ body {
 .btn-hide {
   list-style: none;
   position: absolute;
-  right: 8px;
-  bottom: 11px;
+  right: 12px;
+  bottom: 14px;
   padding: 0;
   margin: 0;
   z-index: 1;

@@ -89,6 +89,7 @@ function alertCopy(text) {
   slideEnd();
 }
 function copy(text) {
+  none();
   navigator.clipboard.writeText(text);
   alertCopy(text);
 }

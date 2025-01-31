@@ -1,5 +1,5 @@
 function GetUrlParameter(){
-    return window.location.search.substring(1).replaceAll("%20"," ").replaceAll("=","").toUpperCase();
+    return window.location.search.substring(1).replaceAll("%20"," ").replaceAll("=","").replaceAll("-"," ").toUpperCase();
 }
 if(GetUrlParameter()){
   $("#guest").html(GetUrlParameter());

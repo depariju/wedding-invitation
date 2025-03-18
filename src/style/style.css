@@ -2350,7 +2350,7 @@ body {
   font-size: 1.5rem;
 }
 
-@media screen and (min-height: 650px) {
+@media screen and (min-height: 500px) {
   .rotation-warning {
     display: none;
   }

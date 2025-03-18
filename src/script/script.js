@@ -120,6 +120,9 @@ $("#s4").click(function () {
 $("#s5").click(function () {
   currentSlide = 5;
 });
+$("#s6").click(function () {
+  currentSlide = 6;
+});
 
 function slideStart(event) {
   console.log("slideStart");

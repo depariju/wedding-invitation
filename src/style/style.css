@@ -1470,6 +1470,15 @@ body {
   animation-duration: 4s;
 }
 
+.font-7-1 {
+  font-family: "NK_Monotype Corsiva";
+  color: #365F8C;
+  font-size: 0.9rem;
+  margin-top: 80px;
+  animation-name: inn;
+  animation-duration: 6s;
+}
+
 .font-3-2 {
   font-family: "Edwardian Script ITC V1";
   color: #E2B04D;
@@ -1857,6 +1866,21 @@ body {
   color: #fff;
   animation-name: center;
   animation-duration: 6s;
+  transform: translate(50%, 0%) !important;
+}
+.box-7-1 {  
+  font-family: "Castellar"!important;
+  width: 100%;
+  height: 50px;
+  padding: 11px 20px;
+  position: absolute;
+  right: 50%;
+  top: 285px;
+  text-align: center;
+  background: #BCA26D;
+  color: #fff;
+  animation-name: center;
+  animation-duration: 3s;
   transform: translate(50%, 0%) !important;
 }
 
